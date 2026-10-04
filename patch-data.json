@@ -1,0 +1,243 @@
+{
+  "originalLength": 3837952,
+  "originalHash": "8ceb1d3cf667ad906f13252cb5bdf762eb018ebbecb8bffeb92f3b27b0dfbb94",
+  "variants": {
+    "Camera": {
+      "length": 3838464,
+      "hash": "bba47c24a88016b598cffb699d587ac2d892fe781d8b18c8c8c285d656dcb2cc",
+      "changes": [
+        {
+          "offset": 302,
+          "original": "BQ==",
+          "patched": "Bg=="
+        },
+        {
+          "offset": 325,
+          "original": "hg==",
+          "patched": "iA=="
+        },
+        {
+          "offset": 377,
+          "original": "8EU=",
+          "patched": "AEY="
+        },
+        {
+          "offset": 384,
+          "original": "qNg=",
+          "patched": "HrA="
+        },
+        {
+          "offset": 744,
+          "original": "AAAAAAAA",
+          "patched": "LndzZm92"
+        },
+        {
+          "offset": 752,
+          "original": "AA==",
+          "patched": "iQ=="
+        },
+        {
+          "offset": 757,
+          "original": "AAA=",
+          "patched": "8EU="
+        },
+        {
+          "offset": 761,
+          "original": "AA==",
+          "patched": "Ag=="
+        },
+        {
+          "offset": 765,
+          "original": "AAA=",
+          "patched": "kDo="
+        },
+        {
+          "offset": 780,
+          "original": "AA==",
+          "patched": "IA=="
+        },
+        {
+          "offset": 783,
+          "original": "AA==",
+          "patched": "YA=="
+        },
+        {
+          "offset": 1903062,
+          "original": "2YfQAA==",
+          "patched": "6CXaKA=="
+        },
+        {
+          "offset": 1903067,
+          "original": "AA==",
+          "patched": "kA=="
+        },
+        {
+          "offset": 1904810,
+          "original": "2YfQAA==",
+          "patched": "6FHTKA=="
+        },
+        {
+          "offset": 1904815,
+          "original": "AA==",
+          "patched": "kA=="
+        },
+        {
+          "offset": 1912673,
+          "original": "2YfQAA==",
+          "patched": "6Jq0KA=="
+        },
+        {
+          "offset": 1912678,
+          "original": "AA==",
+          "patched": "kA=="
+        },
+        {
+          "offset": 3837952,
+          "original": "",
+          "patched": "2YfQAAAAnFDoAAAAAFiAv+QAAAAAdW+DuJP87v8AfmaDuI/87v8Afl1Si5BnTuz/KcKB+itY+v9adgmAuLhB9v8AdEJSUYuQj/zu/2vSA4uIk/zu/8HhAjnKWVp+KNyIE0bo/9ny3djaiI/87v/asJP87v9oAABAP9gMJI1kJATZ6Nnz2MBYncMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+        }
+      ]
+    },
+    "Both": {
+      "length": 3838976,
+      "hash": "0601d2c84866a194b809aeab099585e834345077500362e9b671bae36cbc58fc",
+      "changes": [
+        {
+          "offset": 302,
+          "original": "BQ==",
+          "patched": "Bw=="
+        },
+        {
+          "offset": 325,
+          "original": "hg==",
+          "patched": "ig=="
+        },
+        {
+          "offset": 377,
+          "original": "8EU=",
+          "patched": "EEY="
+        },
+        {
+          "offset": 384,
+          "original": "qNg6",
+          "patched": "I2A7"
+        },
+        {
+          "offset": 744,
+          "original": "AAAAAAAA",
+          "patched": "LndzZm92"
+        },
+        {
+          "offset": 752,
+          "original": "AA==",
+          "patched": "iQ=="
+        },
+        {
+          "offset": 757,
+          "original": "AAA=",
+          "patched": "8EU="
+        },
+        {
+          "offset": 761,
+          "original": "AA==",
+          "patched": "Ag=="
+        },
+        {
+          "offset": 765,
+          "original": "AAA=",
+          "patched": "kDo="
+        },
+        {
+          "offset": 780,
+          "original": "AA==",
+          "patched": "IA=="
+        },
+        {
+          "offset": 783,
+          "original": "AAAAAAAAAA==",
+          "patched": "YC53c2h1ZA=="
+        },
+        {
+          "offset": 792,
+          "original": "AAA=",
+          "patched": "0QE="
+        },
+        {
+          "offset": 798,
+          "original": "AA==",
+          "patched": "Rg=="
+        },
+        {
+          "offset": 801,
+          "original": "AA==",
+          "patched": "Ag=="
+        },
+        {
+          "offset": 805,
+          "original": "AAA=",
+          "patched": "kjo="
+        },
+        {
+          "offset": 820,
+          "original": "AA==",
+          "patched": "IA=="
+        },
+        {
+          "offset": 823,
+          "original": "AA==",
+          "patched": "YA=="
+        },
+        {
+          "offset": 552651,
+          "original": "i4YEAw==",
+          "patched": "6BCGPQ=="
+        },
+        {
+          "offset": 552656,
+          "original": "AA==",
+          "patched": "kA=="
+        },
+        {
+          "offset": 1903062,
+          "original": "2YfQAA==",
+          "patched": "6CXaKA=="
+        },
+        {
+          "offset": 1903067,
+          "original": "AA==",
+          "patched": "kA=="
+        },
+        {
+          "offset": 1904810,
+          "original": "2YfQAA==",
+          "patched": "6FHTKA=="
+        },
+        {
+          "offset": 1904815,
+          "original": "AA==",
+          "patched": "kA=="
+        },
+        {
+          "offset": 1912673,
+          "original": "2YfQAA==",
+          "patched": "6Jq0KA=="
+        },
+        {
+          "offset": 1912678,
+          "original": "AA==",
+          "patched": "kA=="
+        },
+        {
+          "offset": 1923290,
+          "original": "i0Y0qAQ=",
+          "patched": "6CGbKAA="
+        },
+        {
+          "offset": 3837952,
+          "original": "",
+          "patched": "2YfQAAAAnFDoAAAAAFiAv+QAAAAAdW+DuJP87v8AfmaDuI/87v8Afl1Si5BnTuz/KcKB+itY+v9adgmAuLhB9v8AdEJSUYuQj/zu/2vSA4uIk/zu/8HhAjnKWVp+KNyIE0bo/9ny3djaiI/87v/asJP87v9oAABAP9gMJI1kJATZ6Nnz2MBYncMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACcYOgAAAAAW4tGFIXAD4TEAAAAixAp2oH65fjn/w+FtAAAAItACIXAD4SpAAAAi0AEPW8ClhB0JT2hEJYQdB490x6WEHQXPQUtlhB0ED09Wl41dAk9+4Pu4XQC63qLg5Xs7v+Lk5ns7v+FwH5qhdJ+ZoPsEMcEJAAAgD9rwAPB4gI50H4TiVQkBIlEJAjbRCQE2nQkCNkcJNno2CQkx0QkBAAAoEPYTCQE2VwkCIsEJItUJAg5hpAAAAB1CDmWwAAAAHQQiYaQAAAAiZbAAAAAZv9GLIPEEGGdi0Y0qATDzJxg6AAAAABbi74EAwAAhf8PhNIAAACLg7Xr7v+Lk7nr7v+FwA+OvgAAAIXSD462AAAAg+wQxwQkAACAP2vAA8HiAjnQfhOJVCQEiUQkCNtEJATadCQI2Rwkx0QkBAAAAADHRCQIAAAAAMdEJAwAAKBDgTwkAACAP3Qx2UQkDNg0JNlcJAzbg7Xr7v9oAAAAP9gMJNh0JATZXCQI24O56+7/2Awk2VwkDIPEBItEJASLVCQIi0wkDDmH3AAAAHUQOZfgAAAAdQg5j8AAAAB0FomH3AAAAImX4AAAAImPwAAAAGb/RyyDxBBhnYuGBAMAAMMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+        }
+      ]
+    }
+  }
+}
